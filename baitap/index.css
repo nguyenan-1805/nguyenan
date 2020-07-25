@@ -1,0 +1,14 @@
+#lock{
+    background-color: #34465c;
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    justify-content: space-around;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: #f8f9fa;
+    text-transform: uppercase;
+    font-size: 15px;
+}
